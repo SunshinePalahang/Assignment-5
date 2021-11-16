@@ -13,4 +13,4 @@ def min_of_3():
 
    
 minimum = min_of_3()
-print(minimum)
+print(f"The lowest of the 3 numbers is {minimum}")
